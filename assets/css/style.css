@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.filters {
+    margin: 20px 0 20px 0;
+}
+
+input {
+    margin: 0 20px 0 0;
+}
+
+.datatable {
+    margin: 30px 0 0 0;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.links
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0 0;
+}
+
+.link1 {
+    float: left;
+}
+
+
+.link2 {
+    float: left;
+    margin: 0 0 0 20px;
+}
