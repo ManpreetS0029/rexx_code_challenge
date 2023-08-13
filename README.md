@@ -1,5 +1,7 @@
 # Rexx Code Challenge
 
+![Screenshot (18)](https://github.com/ManpreetS0029/rexx_code_challenge/assets/76054224/73d4fd1f-020c-4605-9a32-55586365f9fb)
+
 Database Name - rexx_code_challenge
 
 JSON file is located inside data_source/events.json
