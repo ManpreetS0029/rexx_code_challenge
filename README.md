@@ -15,4 +15,6 @@ External CSS is located inside assets/css/style.css
 Main Page : index.php
 
 
+
+
 Plain PHP is used in the challenge. No bootstrap, jquery, or javascript was used in the challenge. External CSS is used for some styling of the pages.
